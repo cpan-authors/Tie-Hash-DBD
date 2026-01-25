@@ -61,20 +61,20 @@ configure_requires:
 configure_recommends:
     ExtUtils::MakeMaker: 7.22
 configure_suggests:
-    ExtUtils::MakeMaker: 7.72
+    ExtUtils::MakeMaker: 7.76
 test_requires:
     Test::Harness:       0
     Test::More:          0.90
     Time::HiRes:         0
 recommends:
     DBI:                 1.647
-    DBD::SQLite:         1.76
+    DBD::SQLite:         1.78
     DBD::Pg:             3.18.0
     DBD::CSV:            0.62
     Sereal:              5.004
-    Storable:            3.32
+    Storable:            3.25
 test_recommends:
-    Test::More:          1.302209
+    Test::More:          1.302219
 resources:
     license:             http://dev.perl.org/licenses/
     repository:          https://github.com/Tux/Tie-Hash-DBD
