@@ -1,6 +1,6 @@
 package Tie::Array::DBD;
 
-our $VERSION = "0.26";
+our $VERSION = "0.27";
 
 use strict;
 use warnings;
